@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sabihismail&style=flat-square&color=grey" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sabihismail&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 i build things. sometimes useful, sometimes just because i could. .NET, Python, Flutter — whatever gets the job done.
