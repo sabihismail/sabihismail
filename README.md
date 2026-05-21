@@ -10,9 +10,6 @@ always got a side project going. too lazy to finish them manually so i just let 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabihismail&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sabihismail&theme=github_dark" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabihismail&theme=react-dark&hide_border=true" alt="Activity Graph" />
