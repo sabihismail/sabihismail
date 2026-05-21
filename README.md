@@ -11,7 +11,7 @@ always got a side project going. too lazy to finish them manually so i just let 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabihismail&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sabihismail&theme=github_dark" alt="Top Languages" />
 </p>
 
 <p align="center">
