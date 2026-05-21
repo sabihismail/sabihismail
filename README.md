@@ -1,4 +1,10 @@
-# Hi there 👋
+i build things. sometimes useful, sometimes just because i could. .NET, Python, Flutter — whatever gets the job done.
+
+i've worked on apps that helped people find love, now i'm making sure your groceries show up. somewhere in between i built way too much home lab infrastructure and automated things no one asked me to automate.
+
+always got a side project going. too lazy to finish them manually so i just let ai do it — including writing this.
+
+---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sabihismail&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
