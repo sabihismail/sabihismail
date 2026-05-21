@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sabihismail&style=flat-square&color=grey" alt="Profile views" />
+</p>
+
 i build things. sometimes useful, sometimes just because i could. .NET, Python, Flutter — whatever gets the job done.
 
 i've worked on apps that helped people find love, now i'm making sure your groceries show up. somewhere in between i built way too much home lab infrastructure and automated things no one asked me to automate.
